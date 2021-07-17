@@ -64,11 +64,9 @@ end
 
 local function help()
   p("Syntax:")
-  p("/rminit 1 3 2 5 4")
+  p("/srminit 1 3 2 5 4")
   p("numbers indicate the corresponding worldmark")
-  p("starting from the beginning, after cycled through")
-  p("------")
-  p("to use it on a single button")
+  p("when the last mark is placed, the next click will clear all world marks and start from the beginning")
   p("create a macro with `/click sRMClick`")
 end
 

@@ -1,6 +1,6 @@
 ## Interface: 50400
-## Title: RaidMarkToggle
+## Title: snwRaidMark
 ## Author: snwflake
-## Version: v0.1.0
+## Version: v0.1.1
 
 snwRaidMark.lua
